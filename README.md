@@ -1,58 +1,113 @@
-# 🚀 Programming Learning Hub
+# 📊 Data Structures and Algorithms (DSA)
 
-Welcome to my **Learning Programming** GitHub repository! 👨‍💻
-
-This repository is structured using **multiple branches**, where each branch focuses on a specific **language**, **Core concepts**, or **DSA track**.  
-Use the section below to navigate to the branch that interests you!
-
----
-
-## 🔍 Choose a Language / Track
-
-| Language / Track | Description | Explore |
-|------------------|-------------|---------|
-| 🟡 **Java** | Java basics, OOPs, file handling, exception handling and DSA | [`Go to java`](https://github.com/bytephoria-ai/Learning-Programming/blob/java/README.md) |
-| 🔵 **Python** | Python scripting, OOP, file handling and DSA| [`Go to python`](https://github.com/bytephoria-ai/Learning-Programming/blob/python/README.md) |
-| 🔵 **DSA** | Concept of DSA| [`Go to DSA`](https://github.com/bytephoria-ai/Learning-Programming/blob/DSA/README.md) |
+Welcome to the **DSA (Data Structures & Algorithms)** branch!  
+This branch is completely focused on learning and mastering **DSA concepts**, without using any specific programming language.  
+The goal is to understand the **logic**, **approach**, and **problem-solving strategies** behind every topic.
 
 ---
 
-## 📘 What's in Each Branch?
+## 🧠 Why Learn DSA?
 
-Each branch includes:
-
-- 📝 Code examples + problems
-- 🧠 Notes and concept summaries
-- 🔍 Practice questions
-- 📊 DSA concepts
-  
----
-
-## 🛣️ Roadmap
-
-1. Learn core syntax and logic
-2. Understand OOPs and design principles
-3. Practice DSA
+- Improve problem-solving skills
+- Prepare for coding interviews
+- Build optimized and scalable solutions
+- Strengthen core computer science fundamentals
 
 ---
 
-## 💡 Contribution & Updates
+## 🛣️ DSA Roadmap:
+### 🟢 Part 1: Basics of DSA
 
-- This repository is a personal learning log but open for collaboration.
-- Regularly updated as I progress in my journey.
+> 📁 Folder: `/part1_basics/`
+
+#### 📘 Topics Covered:
+- Time & Space Complexity
+- Arrays (1D, 2D)
+- Strings
+- Searching Algorithms
+  - Linear Search
+  - Binary Search
+- Sorting Algorithms
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+- Basic Math Problems
+  - GCD, LCM
+  - Prime Check
+  - Factorial, Power, Modulo
 
 ---
 
+### 🟡 Part 2: Intermediate DSA Concepts
+
+> 📁 Folder: `/part2_intermediate/`
+
+#### 📘 Topics Covered:
+- Recursion
+- Backtracking (Basics)
+- Linked Lists
+  - Singly, Doubly, Circular
+- Stack & Queue
+- Hashing (Map, Set)
+- Sliding Window Technique
+- Prefix Sum & Suffix Sum
+- Kadane’s Algorithm
+- Two Pointer Technique
+
+---
+
+### 🔴 Part 3: Advanced DSA Concepts
+
+> 📁 Folder: `/part3_advanced/`
+
+#### 📘 Topics Covered:
+- Trees
+  - Binary Tree, Binary Search Tree (BST)
+  - Tree Traversals (Inorder, Preorder, Postorder)
+- Heaps & Priority Queue
+- Graphs
+  - Representation (Adjacency List/Matrix)
+  - BFS, DFS
+  - Topological Sorting
+  - Dijkstra’s Algorithm
+  - Prim’s Algorithm
+- Advanced Backtracking
+  - N-Queens
+  - Sudoku Solver
+- Greedy Algorithms
+- Divide and Conquer
+- Dynamic Programming (DP)
+  - Memoization
+  - Tabulation
+  - LCS, LIS, 0/1 Knapsack
+
+---
+
+## 🗂️ Folder Structure
+
+```text
+/dsa
+├── part1_basics/
+│   ├── time_complexity.md
+│   ├── bubble_sort.md
+│   └── binary_search.md
+├── part2_intermediate/
+│   ├── linked_list.md
+│   ├── sliding_window.md
+│   └── recursion.md
+├── part3_advanced/
+│   ├── trees.md
+│   ├── graphs.md
+│   └── dp.md
+```
+---
 ## 📬 Contact Me
 
-Have a doubt, suggestion, or want to collaborate?
+Have questions, suggestions, or just want to connect?
 
-Feel free to reach out:
+- 📧 [Email Me](mailto:bdeepakkumar13@gmail.com)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepak-kumar-b-152004de/)
 
-- 📧 [Email Me](mailto:bdeepakkumar13@gmail.com)
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/deepak-kumar-b-152004de/)
-
-> 🙌 _Feel free to ⭐ the repo or fork it for your own learning journey._
 ---
 
-### ✅ Happy Coding!
+> 🙌 Feel free to **fork this branch**, explore the content, and share your suggestions or improvements!
