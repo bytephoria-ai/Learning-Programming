@@ -11,9 +11,9 @@ Use the section below to navigate to the branch that interests you!
 
 | Language / Track | Description | Explore |
 |------------------|-------------|---------|
-| 🟡 **Java** | Java basics, OOPs, file handling, exception handling and DSA | [Go to `java`](https://github.com/your-username/your-repo-name/tree/java) |
-| 🔵 **Python** | Python scripting, OOP, file handling and DSA| [Go to `python`](https://github.com/your-username/your-repo-name/tree/python) |
-| 🟣 **C++ (CPP)** | C++ concepts, OOP, STL practice and DSA | [Go to `cpp`](https://github.com/your-username/your-repo-name/tree/cpp) |
+| 🟡 **Java** | Java basics, OOPs, file handling, exception handling and DSA | [Go to `java`](https://github.com/bytephoria-ai/Learning-Programming/edit/java/README.md)  |
+| 🔵 **Python** | Python scripting, OOP, file handling and DSA| [Go to `python`](https://github.com/bytephoria-ai/Learning-Programming/edit/python/README.md) |
+| 🟣 **C++ (CPP)** | C++ concepts, OOP, STL practice and DSA | [Go to `cpp`](https://github.com/bytephoria-ai/Learning-Programming/edit/cpp/README.md) |
 
 ---
 
