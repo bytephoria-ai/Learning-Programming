@@ -13,6 +13,7 @@ Use the section below to navigate to the branch that interests you!
 |------------------|-------------|---------|
 | 🟡 **Java** | Java basics, OOPs, file handling, exception handling and DSA | [`Go to java`](https://github.com/bytephoria-ai/Learning-Programming/blob/java/README.md) |
 | 🔵 **Python** | Python scripting, OOP, file handling and DSA| [`Go to python`](https://github.com/bytephoria-ai/Learning-Programming/blob/python/README.md) |
+| 🔵 **DSA** | Concept of DSA| [`Go to DSA`](https://github.com/bytephoria-ai/Learning-Programming/blob/DSA/README.md) |
 
 ---
 
